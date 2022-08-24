@@ -9,7 +9,7 @@
 Тест программы "Money Transfer" показал не валидное значение остатка по счету. 
 
 ### Ссылки на баг-репорты
-![](https://github.com/DmitrySavostyanov/HW1_Task1_JAVA/issues/1#issue-1349663534)
+[](https://github.com/DmitrySavostyanov/HW1_Task1_JAVA/issues)
 
 ### Общие рекомендации
 Для получения итогового результата необходимо использовать целочисленный тип данных - long.
